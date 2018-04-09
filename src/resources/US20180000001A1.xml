@@ -1,0 +1,344 @@
+FH_TITLE:
+
+ROW UNIT FOR AGRICULTURAL IMPLEMENT
+
+FH_DATE:
+
+2018
+
+FH_ABSTRACT:
+
+An agricultural row unit for use with a towing frame hitched to a tractor includes an attachment frame adapted to be rigidly connected to the towing frame, a linkage pivotably coupled to the attachment frame, and a row unit frame having a leading end pivotably coupled to the linkage to permit vertical pivoting movement of the row unit frame relative to the attachment frame. A hydraulic cylinder coupled to the attachment frame and the linkage, for urging the row unit frame downwardly toward the soil, includes a movable ram extending into the cylinder, and a hydraulic-fluid cavity within the cylinder for receiving pressurized hydraulic fluid for advancing the ram in a direction that pivots the linkage and the row unit frame downwardly toward the soil. An accumulator positioned adjacent to the hydraulic cylinder has a fluid chamber containing a diaphragm, with the portion of the chamber on one side of the diaphragm being connected to the hydraulic-fluid cavity in the hydraulic cylinder, and the portion of the chamber on the other side of the diaphragm containing a pressurized gas.
+
+FH_DESCRIPTION:
+
+FH_HEADER_LEVEL_1:
+
+CROSS-REFERENCE AND CLAIM OR PRIORITY TO RELATED APPLICATION
+
+FH_PARA:
+
+This application is a continuation of U.S. patent application Ser. No. 12/882,627, which was filed on Sep. 15, 2010, is entitled “Row Unit for Agricultural Implement,” and is incorporated herein by reference in its entirety.
+
+FH_HEADER_LEVEL_1:
+
+TECHNICAL FIELD
+
+FH_PARA:
+
+The present disclosure relates generally to agricultural implements and, more particularly, to an agricultural row unit for use with agricultural implements such as planting row units.
+
+FH_HEADER_LEVEL_1:
+
+BACKGROUND
+
+FH_PARA:
+
+As an agricultural planter row unit travels across fields with variable soil types, soil moisture, residue levels and topography, it is difficult to maintain constant seed depth and other parameters due to changing conditions which would ideally require varying the row unit down force pressure. For example, farming with higher residue levels also requires higher row unit down force levels as row cleaners, coulters and other attachments require applied force to keep them in the ground and at consistent depths.
+
+FH_PARA:
+
+At the same time, in many locations there are immoveable rocks or other obstructions at or below the soil surface which require the planter row unit to be able to quickly and freely (without undue increase in the row unit down force) rise up and over the obstruction freely and then quickly move back down, leaving a minimum amount of the row unplanted. All this must be accomplished at ground speeds of 6 mph or more. Today's planters typically include many individual row units, at times up to 120 ft wide, each of which may be encountering rocks etc. or have a need to float up or down independently.
+
+FH_PARA:
+
+Traditionally springs have been used to urge row units downward. Recently air bag systems have been used to overcome some of the drawbacks to air spring systems. Air systems provide a more uniform down force through the vertical range of travel, compared to springs, and are somewhat easier to adjust than springs. However due to the compressibility of air and the relatively large volumes required, changes in air pressure are very cumbersome and not adaptable to very fast change and response to in-cab controls on the go. Air bag systems typically have a very large cross-sectional area in relation to the hose feeding the air spring with pressure, which can provide a large multiplication of force and allow for relatively good isolation of one row unit relative to another. However, air bag systems typically do not allow for rapid change of the force being applied, because of the large volume of the air spring in relation to the cross section of the hose supplying the air.
+
+FH_PARA:
+
+Prior attempts to use devices such as combination spring/hydraulic shock absorbers do not provide ready adjustment on the go and tend to increase in force when rapidly striking a foreign object such as a rock requiring the row unit to quickly rise and come back down to resume planting. This increase in force levels can cause damage to the planter row unit components.
+
+FH_PARA:
+
+Some previous down-force systems use a spring and a hydraulic cylinder in series. In these systems the hydraulic cylinder does not directly control row unit down force, but rather is used to vary the amount of spring pressure applied to each unit.
+
+FH_PARA:
+
+Other systems use hydraulics with a central accumulator. However, with the accumulator separated from the force creating cylinder, pressure spikes can develop when hitting obstructions such as a rock at high speed since oil must be forced through hoses or tubes to the remotely located accumulator. This is especially problematic on planters having 50 or more row units.
+
+FH_PARA:
+
+As computers and GPS systems have allowed crop production to be managed in a location-specific way as an implement moves through the field, it has become necessary to achieve more rapid changes in the setting or adjustment of the implement. In the case of a planter row unit, it is also necessary to generate a large amount of force. Each individual planter row unit must be able to react to the soil it encounters independently of the other row units.
+
+FH_PARA:
+
+An air spring can allow for remote adjustment of the planter down pressure without stopping the forward motion of the implement, which is inefficient. Mechanical springs have historically required that the operator stop the implement, get out of the tractor, and make a manual adjustment. The slow rate at which an air spring system can be inflated or deflated means that even if a GPS system determines that a change needs to be made because of a programmed or sensed change in the local soil composition or conditions, by the time the pump can change the air pressure the implement has already moved too far forward of where the change needed to be made. This forces the average grid size in which active adjustments of the planter down pressure can be made to be quite large.
+
+FH_HEADER_LEVEL_1:
+
+SUMMARY
+
+FH_PARA:
+
+In one embodiment, an agricultural row unit for use with a towing frame hitched to a tractor includes an attachment frame adapted to be rigidly connected to the towing frame, a linkage pivotably coupled to the attachment frame, and a row unit frame having a leading end pivotably coupled to the linkage to permit vertical pivoting movement of the row unit frame relative to the attachment frame. At least a furrow-forming device is mounted on the row unit frame. A hydraulic cylinder coupled to the attachment frame and the linkage, for urging the row unit frame downwardly toward the soil, includes a movable ram extending into the cylinder, and a hydraulic-fluid cavity within the cylinder for receiving pressurized hydraulic fluid for advancing the ram in a direction that pivots the linkage and the row unit frame downwardly toward the soil. An accumulator positioned adjacent to the hydraulic cylinder has a fluid chamber containing a diaphragm, with the portion of the chamber on one side of the diaphragm being connected to the hydraulic-fluid cavity in the hydraulic cylinder, and the portion of the chamber on the other side of the diaphragm containing a pressurized gas.
+
+FH_PARA:
+
+BRIEF DESCRIPTION OF THE DRAWINGS
+Various aspects of the invention may best be understood by reference to the following description taken in conjunction with the accompanying drawings, in which:
+FIG. 1 is a perspective view of a planting row unit attached to a towing frame.
+FIG. 2 is a partially sectioned side elevation of the planting row unit of FIG. 1 with the linkage that connects the row unit to the towing frame in a level position.
+FIG. 3 is the same side elevation shown in FIG. 1 but with the linkage tilted upwardly to move the row unit to a raised position.
+FIG. 4 is the same side elevation shown in FIG. 1 but with the linkage tilted downwardly to move the row unit to a lowered position.
+FIG. 5 is a top plan view of the hydraulic cylinder and accumulator unit included in the row unit of FIGS. 1-4.
+FIG. 6 is a vertical section taken along line 6-6 in FIG. 5.
+FIG. 7 is a side elevation of the unit shown in FIGS. 5 and 6 connected to a pair of supporting elements, with the support structures and the connecting portions of the hydraulic cylinder shown in section.
+FIGS. 8A and 8B are enlarged cross sectional views of the supporting structures shown in section in FIG. 7.
+FIG. 9 is an enlarged perspective of the right-hand end portion of FIG. 1 with a portion of the four-bar linkage broken away to reveal the mounting of the hydraulic cylinder/accumulator unit.
+FIG. 10 is a schematic diagram of a first hydraulic control system for use with the row unit of FIGS. 1-9.
+FIG. 11 is a schematic diagram of a second hydraulic control system for use with the row unit of FIGS. 1-9.
+FIG. 12 is a diagram illustrating one application of the hydraulic control system of FIG. 11.
+
+FH_HEADER_LEVEL_1:
+
+DETAILED DESCRIPTION OF ILLUSTRATED EMBODIMENTS
+
+FH_PARA:
+
+Although the invention will be described in connection with certain preferred embodiments, it will be understood that the invention is not limited to those particular embodiments. On the contrary, the invention is intended to cover all alternatives, modifications, and equivalent arrangements as may be included within the spirit and scope of the invention as defined by the appended claims.
+
+FH_PARA:
+
+Turning now to the drawings, a planting row unit 10 includes a furrow-opening device for the purpose of planting seed or injecting fertilizer into the soil. In the illustrated embodiment, the furrow-opening device is a V-opener 11 formed by a pair of conventional tilted discs depending from the leading end of a row unit frame 12. It will be understood that other furrow-opening devices may be used. A conventional elongated hollow towing frame 13 (typically hitched to a tractor by a draw bar) is rigidly attached to the front frame 14 of a conventional four-bar linkage assembly 15 that is part of the row unit 10. The four-bar (sometimes referred to as “parallel-bar”) linkage assembly 15 is a conventional and well known linkage used in agricultural implements to permit the raising and lowering of tools attached thereto.
+
+FH_PARA:
+
+As the planting row unit 10 is advanced by the tractor, the V-opener 11 penetrates the soil to form a furrow or seed slot. Other portions of the row unit 10 then deposit seed in the seed slot and fertilizer adjacent to the seed slot, and close the seed slot by distributing loosened soil into the seed slot with a pair of closing wheels 16. A gauge wheel 17 determines the planting depth for the seed and the height of introduction of fertilizer, etc. Bins 18a and 18b on the row unit carry the chemicals and seed which are directed into the soil. The planting row unit 10 is urged downwardly against the soil by its own weight, and, in addition, a hydraulic cylinder 19 is coupled between the front frame 14 (also referred to herein as “front bracket”) and the linkage assembly 15 to urge the row unit 11 downwardly with a controllable force that can be adjusted for different soil conditions. The hydraulic cylinder 19 may also be used to lift the row unit off the ground for transport by a heavier, stronger, fixed-height frame that is also used to transport large quantities of fertilizer for application via multiple row units.
+
+FH_PARA:
+
+The hydraulic cylinder 19 is shown in more detail in FIGS. 5 and 6. Pressurized hydraulic fluid from the tractor is supplied by a hose 20 to a port 21 that leads into a matching port 22 of a housing 23 that forms a cavity 24 of a hydraulic cylinder containing a ram 25. The housing 23 also forms a side port 26a that leads into cavity 26b that contains a gas-charged hydraulic accumulator 27. The lower end of the cavity 24 is formed by the top end surface of the ram 25, so that the hydraulic pressure exerted by the hydraulic fluid on the end surface of the ram 25 urges the ram downwardly (as viewed in FIG. 6), with a force determined by the pressure of the hydraulic fluid and the area of the exposed end surface of the ram 25. The hydraulic fluid thus urges the ram 25 in an advancing direction (see FIG. 4).
+
+FH_PARA:
+
+As can be seen most clearly in FIG. 6, the hydraulic cylinder 19 and the accumulator 27 are mounted as a single unit on the front frame 14, with the lower end of the ram 25 connected to a crossbar 30 that is joined at one end to a vertical link 31. The upper and lower ends of the link 31 are pivotably attached to upper and lower links 15a and 15b, respectively, on one side of the four-bar linkage 15. The other end of the crossbar 30 is angled upwardly and pivotably attached to the upper link 15c on the opposite side of the four-bar linkage 15. With this mounting arrangement, retracting movement of the ram 25 into the cavity 24 tilts the linkage assembly 15 upwardly, as depicted in FIG. 3, thereby raising the row unit. Conversely, advancing movement of the ram 25 tilts the linkage assembly 15 downwardly, as depicted in FIG. 4, thereby lowering the row unit.
+
+FH_PARA:
+
+The accumulator 27 includes a diaphragm 28 that divides the interior of the accumulator into a hydraulic-fluid chamber 29a and a gas-filled chamber 29b, e.g., filled with pressurized nitrogen. FIG. 2 shows the ram 25 in a position where the diaphragm 28 is not deflected in either direction, indicating that the pressures exerted on opposite sides of the diaphragm are substantially equal. In FIG. 3, the ram 25 has been retracted by upward movement of the row unit, and the diaphragm 28 is deflected downwardly by the hydraulic fluid forced into the accumulator 27 by the retracting movement of the ram 25. In FIG. 4, the ram 25 has been moved to its most advanced position, and the diaphragm 28 is deflected upwardly by the air pressure as hydraulic fluid flows from the accumulator into the cavity 24. The use of this compact hydraulic down-force unit with an integral accumulator on each row unit provides the advantages of quick response and remote adjustability of a hydraulic down-force control system. If an obstruction requires quick movement, oil can flow quickly and freely between the force cylinder and the adjacent accumulator.
+
+FH_PARA:
+
+As can be seen in FIG. 4, advancing movement of the ram 25 is limited by engagement of stops 40, on the lower links of the four-bar linkage 15, with the row unit frame 12. This prevents any further advancement of the ram 25. Advancing movement of the ram 25 expands the size of the cavity 24 (see FIG. 4), which causes the diaphragm 28 in the accumulator 27 to deflect to the position illustrated in FIG. 4 and reduce the amount of hydraulic fluid in the accumulator 27. When the ram 25 is in this advanced position, the row unit is in its lowermost position.
+
+FH_PARA:
+
+In FIG. 3, the ram 25 has been withdrawn to its most retracted position, which can occur when the row unit encounters a rock or other obstruction, for example. When the ram 25 is in this retracted position, the row unit is in its uppermost position. As can be seen in FIG. 3, retracting movement of the ram 25 is limited by engagement of stops 41, on the lower links of the four-bar linkage 15, with the row unit frame 12.
+
+FH_PARA:
+
+Retracting movement of the ram 25 reduces the volume of the cavity 24 (see FIG. 3), which causes a portion of the fixed volume of hydraulic fluid in the cylinder 19 to flow into the chamber 29a of the accumulator 27, causing the diaphragm 28 to deflect to the position illustrated in FIG. 3. This deflection of the diaphragm 28 into the chamber 29b compresses the gas in that chamber. To enter the chamber 29a, the hydraulic fluid must flow through a port 32 in the top of the accumulator 27, which limits the rate at which the hydraulic fluid flows into the accumulator. This controlled rate of flow of the hydraulic fluid has a damping effect on the rate at which the ram 25 retracts or advances, thereby avoiding sudden large movements of the moving parts of the row unit, including the V-opener 11.
+
+FH_PARA:
+
+When the external obstruction causing the row unit 10 to rise is cleared, the combined effects of the pressurized gas in the accumulator 27 on the diaphragm 28 and the pressure of the hydraulic fluid return the ram 25 to a lower position. This downward force on the V-opener 11 holds it in the soil and prevents uncontrolled bouncing of the V-opener 11 over irregular terrain. The downward force applied to the V-opener 11 can be adjusted by changing the pressure of the hydraulic fluid supplied to the cylinder 19.
+
+FH_PARA:
+
+As can be seen in FIGS. 5 and 6, the single unitary housing 23 forms both the cavity 26b that contains the accumulator 27 and the cavity 24 of the hydraulic cylinder 19 and the fluid passageway 24 that connects the cavity 24 of the hydraulic cylinder 19 to the cavity 27 of the accumulator. By integrating the hydraulic cylinder 19 and the accumulator 27 in a single housing, there is no relative motion possible between the cylinder 19 and the accumulator 27, with minimal possibility for fluid passageways to act like orifices. The cylinder 19 and the accumulator 27 remain in fixed positions relative to each other regardless of the movements of the planter row unit via the linkage assembly 15. In this way the upward motion of the ram 25 that occurs when the planter row unit rolls over an obstruction is directly converted into compression of the gas in the accumulator 27 without restriction. It also allows the accumulator 27, which is by definition an energy storage device, to be mounted in a fully enclosed and safe housing. The accumulator 27 can be securely mounted to avoid puncture or rapid discharge (if it comes loose), or damage from hitting another part of the implement or a foreign object. The integrated cylinder and accumulator is also a convenient single package for installation and replacement and minimizes the number of hydraulic hoses and adapters (potential leakage points).
+
+FH_PARA:
+
+FIGS. 7, 8A and 8B illustrate in more detail how the illustrative hydraulic cylinder/accumulator unit is attached to the front frame 14 and the linkage assembly 15. The top of the unitary housing 23 forms a stem 41 that projects upwardly through a hole 51 in a bracket 50 (also referred to herein as “support bracket”) attached to the front frame 14. The outer surface of the stem 41 is threaded to receive a nut 52 that connects the housing 23 to the bracket 50. The hole 51 is oversized and a rubber washer 52a is installed on the stem 41 between the nut 52 and the bracket 50 to allow a limited amount of tilting movement of the housing relative to the bracket 50. At the base of the stem 41, beneath the bracket 50, the housing 23 forms a shoulder 42 that engages a curved bearing ring 53 that also engages a mating lower surface of a washer 54. Thus, the housing 23 can be tilted relative to the axis of the hole 51, with the shoulder 42 sliding over the lower surface of the bearing ring 53.
+
+FH_PARA:
+
+A similar arrangement is provided at the lower end of the ram 25, where a stem 60 extends downwardly through a hole 61 in the crossbar 30 that is pivotably attached to the linkage assembly 15. A nut 62 is threaded onto the stem 60 to connect the ram to the crossbar 30. The hole 61 is oversized and a rubber washer 62a is installed on the stem 60 between the nut 62 and the crossbar 30 to allow a limited amount of tilting movement of the ram 25 relative to the crossbar 30. Above the crossbar 30, a flange 63 on the ram 25 forms a curved conical surface 64 that engages a mating surface of a curved bearing ring 65 that also engages a mating upper surface of a washer 66. Thus, the ram 25 can be tilted relative to the axis of the hole 61, with the flange 63 sliding over the upper surface of the bearing ring 65.
+
+FH_PARA:
+
+The use of a hydraulic system permits on-the-go adjustments to be made very rapidly because the hydraulic fluid is incompressible and therefore acts more directly than an air system. In addition, hydraulic fluids typically operate at higher pressures, which allows for greater changes in applied forces. The accumulator 27 allows the fluid system to flex and float with the changing terrain and soil conditions. The accumulator 27 is preferably centrally mounted so that when any single row unit moves over an obstruction, the down-pressure cylinder 19 moves to displace the hydraulic fluid along a common set of lines connecting all row units. The gas in the accumulator is compressed at the same time, allowing for isolation among the row units so that upward movement of one row unit does not cause downward movement of other row units. Although the illustrative hydraulic ram is single-acting, it is also possible to use a double-acting ram, or a single-acting ram in combination with a return spring.
+
+FH_PARA:
+
+Another advantage of the compact hydraulic cylinder/accumulator unit is that it can conveniently mounted to the same brackets that are provided in many row units for mounting an air bag, to control the down pressure on the row unit. For example, in FIG. 9, the brackets 50 and 51 on which the hydraulic cylinder/accumulator is mounted are the brackets that are often connected to an air bag, and thus the same row unit can be used interchangeably with either an air bag or the hydraulic cylinder/accumulator to control the down pressure on the row unit.
+
+FH_PARA:
+
+FIG. 10 is a schematic of a hydraulic control system for supplying pressurized hydraulic fluid to the cylinders 19 of multiple row units. A source 100 of pressurized hydraulic fluid, typically located on a tractor, supplies hydraulic fluid under pressure to a valve 101 via supply line 102 and receives returned fluid through a return line 103. The valve 101 can be set by an electrical control signal Si on line 104 to deliver hydraulic fluid to an output line 105 at a desired constant pressure. The output line is connected to a manifold 106 that in turn delivers the pressurized hydraulic fluid to individual feed lines 107 connected to the ports 71 of the respective hydraulic cylinders 19 of the individual row units. With this control system, the valve 101 is turned off, preferably by a manually controlled on/off valve V, after all the cylinders 19 have been filled with pressurized hydraulic fluid, to maintain a fixed volume of fluid in each cylinder.
+
+FH_PARA:
+
+FIG. 11 is a schematic of a modified hydraulic control system that permits individual control of the supply of hydraulic fluid to the cylinder 19 of each separate row unit via feed lines 107 connected to the ports 71 of the respective cylinders 19. Portions of this system that are common to those of the system of FIG. 10 are identified by the same reference numbers. The difference in this system is that each separate feed line 107 leading to one of the row units is provided with a separate control valve 110 that receives its own separate control signal on a line 111 from a controller 112. This arrangement permits the supply of pressurized hydraulic fluid to each row unit to be turned off and on at different times by the separate valve 110 for each unit, with the times being controlled by the separate control signals supplied to the valves 110 by the controller 112. The individual valves 110 receive pressurized hydraulic fluid via the manifold 106, and return hydraulic fluid to a sump on the tractor via separate return line 113 connected to a return manifold 114 connected back to the hydraulic system 100 of the tractor.
+
+FH_PARA:
+
+FIG. 12 illustrates on application for the controllable hydraulic control system of FIG. 11. Modern agricultural equipment often includes GPS systems that enable the user to know precisely where a tractor is located in real time. Thus, when a gang of planting row units 120 towed by a tractor 121 begins to cross a headland 122 in which the rows 123 are not orthogonal to the main rows 124 of a field, each planting row unit 120 can be turned off just as it enters the headland 122, to avoid double-planting while the tractor 121 makes a turn through the headland. With the control system of FIG. 11, the hydraulic cylinder 19 of each row unit can also be separately controlled to turn off the supply of pressurized hydraulic fluid at a different time for each row unit, so that each row unit is raised just as it enters the headland, to avoid disrupting the rows already planted in the headland.
+
+FH_PARA:
+
+One benefit of the system of FIG. 11 is that as agricultural planters, seeders, fertilizer applicators, tillage equipment and the like become wider with more row units on each frame, often 36 30-inch rows or 54 20-inch rows on a single 90-foot wide toolbar, each row unit can float vertically independently of every other row unit. Yet the following row units still have the down force remotely adjustable from the cab of the tractor or other selected location. This permits very efficient operation of a wide planter or other agricultural machine in varying terrain without having to stop to make manual adjustment to a large number of row units, resulting in a reduction in the number of acres planted in a given time period. One of the most important factors in obtaining a maximum crop yield is timely planting. By permitting remote down force adjustment of each row unit (or group of units), including the ability to quickly release all down force and let the row cleaner quickly rise, e.g., when approaching a wet spot in the field, one can significantly increase the planter productivity or acres planted per day, thereby improving yields and reducing costs of production.
+
+FH_PARA:
+
+On wide planters or other equipment, at times 90 feet wide or more and planting at 6 mph or more forward speeds, one row unit must often rise or fall quickly to clear a rock or plant into an abrupt soil depression. Any resistance to quick movement results in gouging of the soil or an uncleared portion of the field and, thus, reduced yield. With the row unit having its own hydraulic accumulator, the hydraulic cylinder can move quickly and with a nearly constant down force. Oil displaced by or required by quick movement of the ram is quickly moved into or out of the closely mounted accumulator which is an integral part of each row unit. The accumulator diaphragm or piston supplies or accepts fluid as required at a relatively constant pressure and down force as selected manually or automatically by the hydraulic control system. By following the soil profile closely and leaving a more uniform surface, the toolbar-frame-mounted row unit permits the planter row unit following independently behind to use less down force for its function, resulting in more uniform seed depth control and more uniform seedling emergence. More uniform seedling stands usually result in higher yields than less uniform seedling stands produced by planters with less accurate row cleaner ground following.
+
+FH_PARA:
+
+The term row unit refers to a unit that is attached to a towing frame in a way that permits the unit to move vertically relative to the towing frame and other units attached to that same towing frame. Most row units are equipped to form, plant and close a single seed furrow, but row units are also made to form, plant and close two or more adjacent seed furrows.
+
+FH_PARA:
+
+It will be evident to those skilled in the art that the invention is not limited to the details of the foregoing illustrated embodiments and that the present invention may be embodied in other specific forms without departing from the spirit or essential attributes thereof. The present embodiments are therefore to be considered in all respects as illustrative and not restrictive, the scope of the invention being indicated by the appended claims rather than by the foregoing description, and all changes which come within the meaning and range of equivalency of the claims are therefore intended to be embraced therein.
+
+FH_CLAIM:
+
+1-23. (canceled)
+
+FH_CLAIM:
+
+24. A downforce control system for a planter row unit, comprising:
+a downforce actuator associated with the planter row unit to urge the row unit downwardly with a controllable force that can be adjusted,
+said planter row unit producing a gauge wheel downforce during planting operations,
+said downforce actuator disposed to change said gauge wheel downforce when actuated;
+
+a control module for defining a desired gauge wheel downforce;
+a valve in fluid communication with said downforce actuator for adjusting the fluid pressure supplied to said actuator, said valve associated with the planter row unit; and
+a controller for adjusting the gauge wheel downforce produced by said downforce actuator.
+
+FH_CLAIM:
+
+25. The downforce control system of claim 24, wherein said row unit is one of a plurality of row units each generating a gauge wheel downforce during planting operations and wherein said downforce actuator and said valve are each one of a plurality of downforce actuators and valves, each of which is associated with one of said plurality of row units.
+
+FH_CLAIM:
+
+26. The downforce control system of claim 25, wherein each of said plurality of valves adjusts a pressure in one of said plurality of downforce actuators. in order to adjust said gauge wheel downforce.
+
+FH_CLAIM:
+
+27. The downforce control system of claim 26, further including a load sensor associated with one of said plurality of row units, said load sensor disposed to measure said gauge wheel downforce, said load sensor in electrical communication with said controller.
+
+FH_CLAIM:
+
+28. The downforce control system of claim 26, wherein said valve adjusts a pressure in said downforce actuator.
+
+FH_CLAIM:
+
+29. The downforce control system of claim 24, further including a transport position detector, whereby when said transport position detector detects that said planter row unit is in a transport position, said downforce actuator is prevented from actuating.
+
+FH_CLAIM:
+
+30. The downforce control system of claim 29, wherein said closed-loop feedback circuit includes a control module for inputting said desired gauge wheel downforce Fd.
+
+FH_CLAIM:
+
+31. A downforce control system for a planter row unit generating a actual gauge wheel downforce Fa during planting operations, the system comprising:
+a downforce actuator disposed to operably change the actual gauge wheel downforce Fa when actuated; and
+a valve operably connected to said downforce actuator, said valve configured to modify a pressure in said downforce actuator in order to modify said actual gauge wheel downforce Fa to a desired gauge wheel downforce Fd.
+
+FH_CLAIM:
+
+32. The downforce control system of claim 31, further comprising: a fluid supply line extending to the row unit and coupled to an inlet port of said valve, whereby fluid is communicated from a fluid source to said valve via said fluid supply line; and a fluid return line extending to the row unit and coupled to a return port of said valve, whereby fluid is returned from said valve to said fluid source via said fluid return line.
+
+FH_CLAIM:
+
+33. The downforce control system of claim 31, further comprising: a control module for inputting said desired gauge wheel downforce Fd, said control module in operable communication with said valve for communicating said desired gauge wheel downforce Fd to said valve, wherein said valve modifies said pressure in said downforce actuator in order to bring said actual gauge wheel downforce closer to said desired gauge wheel downforce Fd.
+
+FH_CLAIM:
+
+34. An actuator control system for a planter having a first planter row unit depending from a toolbar and a second planter row unit depending from the toolbar, the system comprising:
+a first downforce actuator disposed to modify a first downforce between a gauge wheel of said first row unit and the soil;
+a second downforce actuator disposed to modify a second downforce between a gauge wheel of said second row unit and the soil;
+a first valve associated with said first row unit, said first valve operably coupled to said first downforce actuator for modifying a first pressure in said first downforce actuator; and
+a second valve associated with said second row unit, said second valve operably coupled to said second downforce actuator for modifying a second pressure in said second downforce actuator.
+
+FH_CLAIM:
+
+35. The actuator control system of claim 34 which includes a controller that communicates with said first and second valves independently to modify pressures in said first and second downforce actuators, respectively.
+
+FH_CLAIM:
+
+36. An agricultural implement for use with a towing frame attached to a tractor, said agricultural implement comprising
+multiple row units each of which comprises
+a linkage pivotably coupled to said towing frame,
+an agricultural tool pivotably coupled to the row unit for vertical pivoting movement, and
+a hydraulic cylinder pivotably coupled to said linkage for controlling a downforce on said row unit, and
+
+a hydraulic control system for supplying pressurized hydraulic fluid to the hydraulic cylinders of said row units through feed lines and controllable valves to permit separate control of the downforce on each separate row unit.
+
+FH_CLAIM:
+
+37. The agricultural implement of claim 36, which includes a manifold that delivers pressurized hydraulic fluid to individual feed lines coupled to the individual hydraulic cylinders of the individual row units.
+
+FH_CLAIM:
+
+38. The agricultural implement of claim 36, which includes a controller and in which each separate feed line leading to one of said row units includes a control valve that receives a control signal from said controller, to permit the supply of pressurized hydraulic fluid to each row unit to be controlled by the separate control valve for each row unit.
+
+FH_CLAIM:
+
+39. The agricultural implement of claim 36, which includes a controller and in which the times when said control valves are open and closed are controlled by said separate control signals supplied to said control valves by said controller.
+
+FH_CLAIM:
+
+40. The agricultural implement of claim 36, in which each row unit includes an energy storage device associated with said hydraulic cylinder.
+
+FH_CLAIM:
+
+41. The agricultural implement of claim 40, in which said energy storage device is an accumulator.
+
+FH_CLAIM:
+
+42. The agricultural implement of claim 40, in which said energy storage device has a damping effect on the rate at which the row unit can be raised.
+
+FH_CLAIM:
+
+43. The agricultural implement of claim 40, in which said energy storage device and said hydraulic cylinder are formed by a single unitary housing.
+
+FH_CLAIM:
+
+44. The agricultural implement of claim 36, in which said hydraulic control system and said controller provide remote down force adjustment of each row unit.
+
+FH_CLAIM:
+
+45. The agricultural implement of claim 36, in which each of said row units is coupled to said towing frame in a way that permits the row unit to move vertically relative to the towing frame and other row units attached to that same towing frame.
+
+FH_CLAIM:
+
+46. The agricultural implement of claim 36, in which each of said row units is coupled to said towing frame in a way that permits the row unit to move vertically relative to the towing frame and other row units attached to the same towing frame.
+
+FH_CLAIM:
+
+47. An agricultural implement for use with a towing frame attached to a tractor, said agricultural implement comprising
+multiple row units each of which comprises
+a linkage pivotably coupled to said towing frame,
+an agricultural tool pivotably coupled to the row unit for vertical pivoting movement, and
+a hydraulic cylinder pivotably coupled to said linkage for controlling a downforce on said row unit, and
+
+a hydraulic control system for supplying pressurized hydraulic fluid to the hydraulic cylinders of said row units through feed lines and controllable valves to permit separate control of the downforce on each row unit.
+
+FH_CLAIM:
+
+48. The agricultural implement of claim 47, which includes a manifold that delivers pressurized hydraulic fluid to individual feed lines coupled to the individual hydraulic cylinders of the individual row units.
+
+FH_CLAIM:
+
+49. The agricultural implement of claim 47, which includes a controller and in which each separate feed line leading to one of said row units includes a control valve that receives a separate control signal from said controller, to permit the supply of pressurized hydraulic fluid to each row unit to be controlled by the control valve for each row unit.
+
+FH_CLAIM:
+
+50. The agricultural implement of claim 47, which includes a controller and in which the times when said valves are open and closed are controlled by said separate control signals supplied to said valves by said controller.
+
+FH_CLAIM:
+
+51. The agricultural implement of claim 47, in which each row unit includes an energy storage device associated with said hydraulic cylinder.
+
+FH_CLAIM:
+
+52. The agricultural implement of claim 51, in which said energy storage device is an accumulator.
+
+FH_CLAIM:
+
+53. The agricultural implement of claim 51, in which said energy storage device has a damping effect on the rate at which the row unit can be raised.
+
+FH_CLAIM:
+
+54. The agricultural implement of claim 51, in which said energy storage device and said hydraulic cylinder are formed by a single unitary housing.
+
+FH_CLAIM:
+
+55. The agricultural implement of claim 47, in which said hydraulic control system and said controller provide remote down force adjustment of each separate row unit.
+
+FH_CLAIM:
+
+56. The agricultural implement of claim 47, in which each of said row units is coupled to said towing frame in a way that permits the row unit to move vertically relative to the towing frame and other row units attached to that same towing frame.
+
